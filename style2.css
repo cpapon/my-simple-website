@@ -1,0 +1,8 @@
+.action_form{
+    height: 500px;
+    width: 50%;
+    align-items: center;
+    vertical-align:middle;
+    display: inline-block;
+    background-color: tomato;
+}
